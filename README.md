@@ -122,7 +122,7 @@ Later and now:
 - do refactoring, when needed.
 - dont like bloated and fat software. but I like small, fast, and well-coded.
 - and so on.
-- the code, which I wrote even 20 years ago, I dont need to rewrite/change, because it was good writed.
+- code, which I wrote even 20 years ago, I dont need to rewrite/change, because it have a good style.
 <hr>
 
 
