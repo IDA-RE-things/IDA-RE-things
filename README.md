@@ -1,16 +1,114 @@
+Time to say about me? Ok.
 ### Hi there 👋
 
-<!--
-**IDA-RE-things/IDA-RE-things** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My achievements, some facts, interests, and work in progress (not commercial, just for me), related to software. which I have divided to categories:
+<hr>
 
-Here are some ideas to get you started:
+Distant past. From what all was started. Post-school years (pre 2000, pre x86-PC) Just for history:
+- [No Computer at all]. The CPM-compatible operation system for 8080 was reversed by me from binary codes, which was published in one of magazine for hobbysts.
+- [Still no computer]. Have repaired ZX-Spectrum Computer PCB from one of my friends. PCB was researched by by me, cutting connections between IC's and watching signals, then found and fixed bug on PCB.
+- [Ok, farther. Bought my own ZX-Spectrum compatible computer. But no tools around]: Starting to make assembler programs from the books. Assembler/Disassembler/Editor packege called HiSoft DevPack was reversed by me and extended, to compact store of large listings in his 64k only memory; Combined with more friendly editor from Pascal, and with screen driver from another package, to show 64 symbols per line instead of 32. Also all in z80 asm. 
+- Revers'ed and improved Pascal compiler for ZX-Spectrum (1st course of university times). Done on Spectrum itself. Using above disassembler/debugger/editor tools I reworked before. With result pascal compiler system I have then making large pascal program to do computation of schemes for radioelectronic, ported by me from Basic from radio-magazine and improved.  (~1997 y)
+- All above work was done only with cassetes as information store. With the custom tape recorder, which I have modified to speedup and reliability of loading programs from cassete tapes.
+- reversing of fine-coded Autosimulator game for ZX Spectrum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+Later and now:
+### Compilers/Decompilers:
+- Reverse-engineering of Optimizing `MSX-C/SOLID-C (z80) Compiler`'s Backend (Optimizer and Codegenerator) -- (writen in z80. Task was done using IDA 3.7 disassembler, and printer to read wide C src listings, which I wrote from reversed code. Task started in 1998. spend 1.5 years on IBM PC 486) it took long-time, binary was recreated back to C-source code). Also to debug it, ZXSpectrum emulator, patched by me to run MSX/CPM-code was used, And reversed/modified z80 CPM emulator. Then I'm fixed bugs, extending features., improved register allocation. And ported it to x86 as crosscompiler. Fixed z80-based Solid-C was posted by me to ZX-Spectrum related FidoNet group, for people and community (~2002 y).
+- research and reversing other existing z80/8080 compilers.
+- `VBCC` portable optimizing compiler rework/refactoring/extending (spent many time)
+- reversing/researching of `Intel C/C++ compiler` internals.
+- reversing/researching of `Borland C/C++ compiler` internals.
+- reversing of `Watcom C/C++ compiler`. And later, when it stay open-sourced Open-watcom, => extending Watcom compiler/tools to support CV debug info for ex.
+- large R/E of `MS VC Compiler/tools`, created compatibility with Borland compilers, adding work with register Custom-calling conventions, and other.
+- Partially reversed internal `MS BBTools`, reversed intermediate data formats
+- MFC (MS) & VCL (Borland), -related decompilers
+- Improving/researching/reversing of other existing decompiler's (before HexRays was born)
+- Extending `IDA/Hexrays` (including long-time reversing), writing additional tools, Created plugins. (some done, some in progress)
+
+- I'm Prefer VisualStudio 2008 to develop when its possible.
+- I'm Prefer IDA 6.8 for reversing with it. For my own reason.
+
+### Windows internals:
+- I'm prefer Windows XP, because of its leaked src code. And dont moving totally to Windows7. (While using in parallel). If I found some bugs, I'm rely only to myself. As with owned legacy (but nice) car from 2000x.
+- reworked and recompiled leaked Windows NT code, +created and reworked tools for it.
+- I'm have created my own custom Win7+ API emulation libraryes to run some new programs on WinXP.
+- time-to-time working with/reversing of Win32-related system DLL's 
+
+### Other OS's:
+- Interested in KolibriOS, written mostly in asm code. Interested in translate most parts to C source. To improve extending, support and debugging of it. Have created IDA pligin to improve this. And its work in progress.
+
+### Graphics Cards:
+- research of internals of proprietary `Radeon HD` and `NVidia` drivers
+
+### Speech generation:
+- research and reversing of text-to-speech generation software
+
+### DirectX:
+- Research/Reversing of `MS DirectX` code, `PIX` profiler, etc
+- Interested with DirectX-11 emulation for WinXP. (under research)
+
+### Game Consoles:
+- XBox (original) : was interested in reversing and emulation of it. Bought 3 instances of it for this experiments. Researched leaked Xbox sources. And state of art in existing emulators.
+- Reversing of PS3-based games (some interesting autosimulators).
+
+### RadioElectronic/CAD:
+- research/reversing/fixing/rework. of various programs/packages/products
+- retrieving schemes from PCB (reversing), and other.
+- Repairing.
+- I'm radio-hobbyst in earlier years. (and stay now)
+
+### Computer hardware:
+- Motherboard repair: Bought POST-cards, have revers'ed firmware for one of it. Researched, have found and fixed the cause of computer off on motherboard.
+
+### Emulation:
+- interested in `Virtual PC` and other emulation/virtualization software. Revers'ed some parts.
+- Z80-based computers emulation (`blueMSX`, `UnrealSpeccy`, etc),
+- `XBox` emulation,
+- reversing/improving of software-emulated debuggers for microcontrollers
+
+### MIDI/VSTi/DAW/Music:
+- Love `SpaceSynth`-style music and try to research and make it.
+- fixed software, working with new MIDI-keyboards to support legacy keyboard.
+- `ASIO` for WinXP.
+- Research/Reversing of `Roland GS`, and `Yamaha XG` software synthesizers. (`SYXG50` and `YMF744/724`). bought ~15 pieces for collection.
+- research/reversing/fixing/ of different DAW for composers.
+- MIDI devices repair and reversing.
+
+### Autosimulators/ActionGames
+- Extending/Research of many Autosimulator-related games. w/o source code. (for ex `Driver SF`, `Grid Autosport`, `CrashTime` -series, and many others)
+- Develop/revesing of own autosim from partial source code. (`Racer`-based)
+- Reversing of `CryEngine3` -based games, and `CineBox` workshop/editors, to extend functionality
+- Interesting in learing of `GTA3/SA` reversed game sources.
+- Also interested in other reversed/leaked game code sources.
+
+### Automotive:
+- reversing/research of old BOSCH ECU's firmware code (`Motronic` different versions). (i8051/- based chips)
+- (one such Motronic was repaired by me for my car in 2006, while no one wanted to repair it on stations).
+- ECU-diagnostic software research/reversing.
+- other autoelectronics
+ 
+### Microcontrollers:
+- reversing of `AVR`- and `i8051`- based MCU firmawares
+- improvemet of IDA plugins for it, etc.
+- reversing/extending of proprietary commercial tools for it. To mprove functionality.
+
+### Internet:
+- Reversing of proprietary `MS Exchange ESE/EDB` engine and database data formats, to work with email-databases (commercial work, 2004-2006).
+- Reversed proprietary binary database format of `FlashGet 1.9` downloader (was abandoned), fixed internal hard-to-find bugs. Created database repair utility. Drastically improved performance of hooge database loading (from 5 min to 2 sec) (2008-2024).
+- R/E, fixing, extending `Proxomitron` proxy-server (no src). Also created many complicated filters for it.
+- Fixed/reversed `HandyCache` proxy-server (no src).
+- Reversed parts of `MS IE8` Browser and created module to fix issues with performance inside MSHTML.dll component. Also CHM viewer improved/optimized.
+- Having own knowlege system, based on reversengineering of abandoned `WebResearch`.
+- Reversing/Improving `MyIE`-based browsers (w/MFC src)
+- improving `Opera` browser (w/leaked src)
+- Fixing `Chrome` browser to improve speedup
+
+### Other:
+- `Far manager` and plugins rework.
+- R/E extending/bugfixing in binary code of Windows desktop Applications.
+
+- and other (not in my memory now) ....
+
