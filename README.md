@@ -5,10 +5,10 @@ My achievements, some facts, interests, and work in progress (not commercial, ju
 <hr>
 
 Distant past. From what all was started. Post-school years (pre 2000, pre x86-PC) Just for history:
-- [No Computer at all]. The CPM-compatible operation system for 8080 was reversed by me from binary codes, which was published in one of magazine for hobbysts.
-- [Still no computer]. Have repaired ZX-Spectrum Computer PCB from one of my friends. PCB was researched by by me, cutting connections between IC's and watching signals, then found and fixed bug on PCB.
-- [Ok, farther. Bought my own ZX-Spectrum compatible computer. But no tools around]: Starting to make assembler programs from the books. Assembler/Disassembler/Editor packege called HiSoft DevPack was reversed by me and extended, to compact store of large listings in his 64k only memory; Combined with more friendly editor from Pascal, and with screen driver from another package, to show 64 symbols per line instead of 32. Also all in z80 asm. 
-- Revers'ed and improved Pascal compiler for ZX-Spectrum (1st course of university times). Done on Spectrum itself. Using above disassembler/debugger/editor tools I reworked before. With result pascal compiler system I have then making large pascal program to do computation of schemes for radioelectronic, ported by me from Basic from radio-magazine and improved.  (~1997 y)
+- [No Computer at all]. The mini-CPM-compatible operating system for 8080 was reversed by me from binary codes, which was published in one of magazine for hobbysts.
+- [Still no computer]. Have repaired ZX-Spectrum Computer PCB from one of my friends. PCB was researched by by me, cutting connections between IC's and watching signals, then found and fixed bug on PCB. Thus, I became familarized with a working ZX-Spectrum computer. (~1994).
+- [Ok, farther. some years later bought my own ZX-Spectrum compatible computer. But there are no convenient tools around]: Starting to make assembler programs from the books. Assembler/Disassembler/Editor package called `HiSoft DevPack` was reversed by me and extended, to compact store of large disassembled listings in his 48k only memory; Combined with more friendly editor from Pascal, and with screen driver from another package, to show 64 symbols per line instead of 32. Also all in z80 asm. 
+- Revers'ed and improved `Hisoft Pascal` compiler for ZX-Spectrum (1st course of university times). Done on Spectrum itself. Using above disassembler/debugger/editor tools I reworked before. The resulting "Pascal compiler system" on the tape, allow me have then making large pascal program to do computation of schemes for radioelectronic, ported by me from Basic from radio-magazine and improved.  (~1997 y)
 - All above work was done only with cassetes as information store. With the custom tape recorder, which I have modified to speedup and reliability of loading programs from cassete tapes.
 - reversing of fine-coded Autosimulator game for ZX Spectrum.
 
@@ -27,8 +27,9 @@ Later and now:
 - MFC (MS) & VCL (Borland), -related decompilers
 - Improving/researching/reversing of other existing decompiler's (before HexRays was born)
 - Extending `IDA/Hexrays` (including long-time reversing), writing additional tools, Created plugins. (some done, some in progress)
+<br>
 
-- I'm Prefer VisualStudio 2008 to develop when its possible.
+- I'm Prefer VisualStudio 2008 for develop, when its possible.
 - I'm Prefer IDA 6.8 for reversing with it. For my own reason.
 
 ### Windows internals:
@@ -86,7 +87,7 @@ Later and now:
 
 ### Automotive:
 - reversing/research of old BOSCH ECU's firmware code (`Motronic` different versions). (i8051/- based chips)
-- (one such Motronic was repaired by me for my car in 2006, while no one wanted to repair it on stations).
+- (one such Motronic was repaired by me for my car in 2006, while no one wanted to repair it before on stations).
 - ECU-diagnostic software research/reversing.
 - other autoelectronics
  
@@ -97,12 +98,12 @@ Later and now:
 
 ### Internet:
 - Reversing of proprietary `MS Exchange ESE/EDB` engine and database data formats, to work with email-databases (commercial work, 2004-2006).
-- Reversed proprietary binary database format of `FlashGet 1.9` downloader (was abandoned), fixed internal hard-to-find bugs. Created database repair utility. Drastically improved performance of hooge database loading (from 5 min to 2 sec) (2008-2024).
+- Reversed proprietary binary database format of `FlashGet 1.9` downloader (was abandoned), fixed internal hard-to-find bugs. Created database repair utility. Drastically improved performance of large database loading on startup (**_from 5-10 min to 2 sec_**); Also added possibility to work with huge databases without crash at some time and data corruption. (And this was without source code) (2008-2024).
 - R/E, fixing, extending `Proxomitron` proxy-server (no src). Also created many complicated filters for it.
 - Fixed/reversed `HandyCache` proxy-server (no src).
-- Reversed parts of `MS IE8` Browser and created module to fix issues with performance inside MSHTML.dll component. Also CHM viewer improved/optimized.
-- Having own knowlege system, based on reversengineering of abandoned `WebResearch`.
-- Reversing/Improving `MyIE`-based browsers (w/MFC src)
+- Reversed parts of `MS IE8` browser for XP, and created module to fix issues with performance inside MSHTML.dll component. The problem was inside font caching algorithms. I have fixed and improved it. Also CHM viewer improved/optimized.
+- Have own knowlege system, based on reversengineering of abandoned `WebResearch` software.
+- Reversing/Improving `MyIE`-based browser (w/MFC src)
 - improving `Opera` browser (w/leaked src)
 - Fixing `Chrome` browser to improve speedup
 
@@ -111,4 +112,6 @@ Later and now:
 - R/E extending/bugfixing in binary code of Windows desktop Applications.
 
 - and other (not in my memory now) ....
+<hr>
+
 
