@@ -1,7 +1,7 @@
 Time to say about me? Ok.
 ### Hi there 👋
 
-My achievements, some facts, interests, and work in progress (not commercial, just for me), related to software. which I have divided to categories:
+My achievements, some facts, interests, and work in progress (not commercial, just for me), **_related to software_**. which I have divided to categories:
 <hr>
 
 Distant past. From what all was started. Post-school years (pre 2000, pre x86-PC) Just for history:
