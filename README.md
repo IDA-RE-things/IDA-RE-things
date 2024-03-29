@@ -30,9 +30,6 @@ Later and now:
 - Extending `IDA/Hexrays` (including long-time reversing), writing additional tools, Created plugins. (some done, some in progress)
 <br>
 
-- I'm Prefer VisualStudio 2008 for develop, when its possible.
-- I'm Prefer IDA 6.8 for reversing with it. For my own reason.
-
 ### Windows internals:
 - I'm prefer Windows XP, because of its leaked src code. And dont moving totally to Windows7. (While using in parallel). If I found some bugs, I'm rely only to myself. As with owned legacy (but nice) car from 2000x.
 - reworked and recompiled leaked Windows NT code, +created and reworked tools for it.
@@ -113,6 +110,19 @@ Later and now:
 - R/E extending/bugfixing in binary code of Windows desktop Applications.
 
 - and other (not in my memory now) ....
+<hr>
+
+### My preferences:
+- I'm prefer VisualStudio 2008 for develop, when its possible.
+- I'm prefer IDA 6.8 for reversing with it. (For several reasons).
+- I'm prefer simple possible code, which can be compiled with many other compilers. Very dont like new C++ standards. with "auto" keyword and so on. Because it will not be compiled with old compilers.
+- dont like STL code, without real necessity.
+- dont like `cout << something;`; like `printf("%s", something);`. Because it more compact, flexible, and understandable.
+- I like good commented code (but not over-commented). And always do such.
+- do refactoring, when needed.
+- dont like bloated and fat software. but I like small, fast, and well-coded.
+- and so on.
+- the code, which I wrote even 20 years ago, I dont need to rewrite/change, because it was good writed.
 <hr>
 
 
