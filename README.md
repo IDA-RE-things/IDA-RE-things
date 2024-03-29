@@ -115,14 +115,14 @@ Later and now:
 ### My preferences:
 - I'm prefer VisualStudio 2008 for develop, when its possible.
 - I'm prefer IDA 6.8 for reversing with it. (For several reasons).
-- I'm prefer simple possible code, which can be compiled with many other compilers. Very dont like new C++ standards. with "auto" keyword and so on. Because it will not be compiled with old compilers.
+- I'm prefer simple possible code, which can be compiled with many other compilers. Very dont like new C++ standards. with `auto` keyword and so on. Because it will not be compiled with old compilers.
 - dont like STL code, without real necessity.
 - dont like `cout << something;`; like `printf("%s", something);`. Because it more compact, flexible, and understandable.
 - I like good commented code (but not over-commented). And always do such.
 - do refactoring, when needed.
 - dont like bloated and fat software. but I like small, fast, and well-coded.
 - and so on.
-- code, which I wrote even 20 years ago, I dont need to rewrite/change, because it have a good style.
+- the code, which I wrote even 25 years ago, I dont need to rewrite, because it was good writen and good style.
 <hr>
 
 
