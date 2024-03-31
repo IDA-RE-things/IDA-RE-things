@@ -26,6 +26,7 @@ Later and now:
 - large R/E of `MS VC Compiler/tools`, created compatibility with Borland compilers, adding work with register Custom-calling conventions, and other.
 - Partially reversed internal `MS BBTools`, reversed intermediate data formats
 - MFC (MS) & VCL (Borland), -related decompilers
+- Converitng interesting for me projects (from third persons) from Delphi to C++.
 - Improving/researching/reversing of other existing decompiler's (before HexRays was born)
 - Extending `IDA/Hexrays` (including long-time reversing), writing additional tools, Created plugins. (some done, some in progress)
 <br>
@@ -115,12 +116,12 @@ Later and now:
 ### My preferences:
 - I'm prefer VisualStudio 2008 for develop, when its possible.
 - I'm prefer IDA 6.8 for reversing with it. (For several reasons).
-- I'm prefer simple possible code, which can be compiled with many other compilers. Very dont like new C++ standards. with `auto` keyword and so on. Because it will not be compiled with old compilers.
-- dont like STL code, without real necessity.
-- dont like `cout << something;`; like `printf("%08x", something);`. Because it more compact, flexible, and understandable.
+- I'm prefer simple possible code, which can be compiled with many other compilers. Dont like new C++ standards. While its intended to simplicity of code writings. (The `auto` keyword, lambda's, and so on). But such code can not be compiled with old compilers. And I'm tired to rewrite it, when this occurs in projects code, wich I want to compile with VS2008 for ex.
+- dont like using of STL code, without real necessity.
+- dont like `cout << hex() << something;`; but like `printf("%08x", something);`. Because its more compact, flexible, and understandable. Especially for reversing.
 - I like good commented code (but not over-commented). And always do such.
 - do refactoring, when needed.
-- dont like bloated and fat software. but I like small, fast, and well-coded.
+- dont like bloated and fat software. but I like small, lightweight, fast, and well-coded.
 - and so on.
 - the code, which I wrote even 25 years ago, I dont need to rewrite, because it was good writen and with a good style.
 <hr>
