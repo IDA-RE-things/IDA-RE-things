@@ -29,7 +29,6 @@ Later and now:
 - Converitng interesting for me projects (from third persons) from Delphi to C++.
 - Improving/researching/reversing of other existing decompiler's (before HexRays was born)
 - Extending `IDA/Hexrays` (including long-time reversing), writing additional tools, Created plugins. (some done, some in progress)
-<br>
 
 ### Windows internals:
 - I'm prefer Windows XP, because of its leaked src code. And dont moving totally to Windows7. (While using in parallel). If I found some bugs, I'm rely only to myself. As with owned legacy (but nice) car from 2000x.
