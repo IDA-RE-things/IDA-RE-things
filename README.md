@@ -18,8 +18,9 @@ Distant past. From what all was started. Post-school years (pre 2000, pre x86-PC
 Later and now:
 ### Compilers/Decompilers:
 - Reverse-engineering of Optimizing `MSX-C/SOLID-C (z80) Compiler`'s Backend (Optimizer and Codegenerator) -- (writen in z80. Task was done using IDA 3.7 disassembler, and printer to read wide C src listings, which I wrote from reversed code. Task started in 1998. spend 1.5 years on IBM PC 486) it took long-time, binary was recreated back to C-source code). Also to debug it, ZXSpectrum emulator, patched by me to run MSX/CPM-code was used, And reversed/modified z80 CPM emulator. Then I'm fixed bugs, extending features., improved register allocation. And ported it to x86 as crosscompiler. Fixed z80-based Solid-C was posted by me to ZX-Spectrum related FidoNet group, for people and community (~2002 y).
-- research and reversing other existing z80/8080 compilers for DOS/Win/CPM/Spectrum.
+- research and reversing (if no src) of others existing z80/8080/i386 compilers for DOS/Win/CPM/Spectrum.
 - `VBCC` portable optimizing compiler rework/refactoring/extending (spent many time) of i386, z80, etc.
+- reversing/researching of `IAR embedded C compiler for z80` internals.
 - reversing/researching of `Intel C/C++ compiler` internals.
 - reversing/researching of `Borland C/C++ compiler` internals.
 - reversing of `Watcom C/C++ compiler`. And later, when it stay open-sourced Open-watcom, => extending Watcom compiler/tools to support CV debug info for ex.
