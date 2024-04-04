@@ -11,15 +11,15 @@ Distant past. From what all was started. Post-school years (pre 2000, pre x86-PC
 - Initial large work on disassembling and renaming functions, determining the purpose of functions and their parameters, tracking registers and so on, was done by me just in school notebooks and with colored pens. No such thing that time as IDA now on PC :)
 - [Then]: Revers'ed and improved `Hisoft Pascal` compiler for ZX-Spectrum (1st course of university times). Done on Spectrum itself. Using above disassembler/debugger/editor tools I reworked before. The resulting "Pascal compiler system" on the tape, allow me have then making large pascal program to do computation of schemes for radioelectronic, ported by me from Basic language from radio-magazine, and improved.  (~1997 y)
 - All above work was done only with cassetes as information store. With the custom tape recorder, which I have modified to speedup and reliability of loading programs from cassete tapes.
-- reversing of fine-coded Autosimulator game for ZX Spectrum.
+- reversing of fine-coded Autosimulator game (`HardDrivin`) for ZX Spectrum. (~1999 y)
 
 <hr>
 
 Later and now:
 ### Compilers/Decompilers:
 - Reverse-engineering of Optimizing `MSX-C/SOLID-C (z80) Compiler`'s Backend (Optimizer and Codegenerator) -- (writen in z80. Task was done using IDA 3.7 disassembler, and printer to read wide C src listings, which I wrote from reversed code. Task started in 1998. spend 1.5 years on IBM PC 486) it took long-time, binary was recreated back to C-source code). Also to debug it, ZXSpectrum emulator, patched by me to run MSX/CPM-code was used, And reversed/modified z80 CPM emulator. Then I'm fixed bugs, extending features., improved register allocation. And ported it to x86 as crosscompiler. Fixed z80-based Solid-C was posted by me to ZX-Spectrum related FidoNet group, for people and community (~2002 y).
-- research and reversing other existing z80/8080 compilers.
-- `VBCC` portable optimizing compiler rework/refactoring/extending (spent many time)
+- research and reversing other existing z80/8080 compilers for DOS/Win/CPM/Spectrum.
+- `VBCC` portable optimizing compiler rework/refactoring/extending (spent many time) of i386, z80, etc.
 - reversing/researching of `Intel C/C++ compiler` internals.
 - reversing/researching of `Borland C/C++ compiler` internals.
 - reversing of `Watcom C/C++ compiler`. And later, when it stay open-sourced Open-watcom, => extending Watcom compiler/tools to support CV debug info for ex.
