@@ -96,9 +96,9 @@ Later and now:
 - other autoelectronics
  
 ### Microcontrollers:
-- reversing of `AVR`- and `i8051`- based MCU firmawares
+- reversing of `AVR`- and `i8051`- based MCU firmwares
 - improvemet of IDA plugins for it, etc.
-- reversing/extending of proprietary commercial tools for it. To mprove functionality.
+- reversing/extending of proprietary commercial tools for it. To improve functionality.
 
 ### Internet:
 - Reversing of proprietary `MS Exchange ESE/EDB` engine and database data formats, to work with email-databases (commercial work, 2004-2006).
