@@ -7,15 +7,15 @@ My achievements, some facts, interests, and work in progress (not commercial, ju
 Distant past. From what all was started. Post-school years (pre 2000, pre x86-PC) Just for history:
 - [No Computer at all]: I have read books and magazines about programming, later have bought programmed micro-calculator `MK52`, and modified it to speedup.
  Have reversed (published in magazines) programs for it; from hex-like codes. 
- Also have inrerested in microprocessor 8080 (how it can work, if imagine it on separate logic IC's). microprocessor which I seen only in magazines. 
+ Also was intrested in microprocessor 8080 (how it can work, if imagine it on separate logic IC's). microprocessor which I seen only in magazines. 
  Have tried to write small asm programs just on paper, investigating algorithms and writing diagrams.
  Also found interesting mini CPM-compatible operating system for minicomputer for hobbists.
-- [Still no computer]. Have repaired ZX-Spectrum Computer PCB from one of my friends. PCB was researched by by me, cutting connections between IC's and watching signals, then found and fixed bug on PCB. Thus, I became familarized with a working ZX-Spectrum computer. (~1994).
+- [Still no computer]. Have repaired ZX-Spectrum Computer PCB from one of my friends. PCB was researched by by me, cutting connections between IC's and watching signals, then found and fixed bug on PCB. Thus, I became familarized with a working ZX-Spectrum computer (on z80 , which was based on 8080). (~1994).
 - [Ok, farther. some years later bought my own ZX-Spectrum compatible computer. But there are no convenient tools around]: Starting to make assembler programs from the books. The compact Assembler/Disassembler package, called `HiSoft DevPack`, which I have found on cassete, was reversed by me and extended, to do compact store of large disassembled listings in 48k only Spectrum memory; Combined with more friendly editor from Pascal, and with screen driver from another package, to show 64 symbols per line instead of 32. Also all in z80 asm.
-- Initial large work on disassembling and renaming functions, determining the purpose of functions and their parameters, tracking registers and so on, was done by me just in school notebooks and with colored pens. No such thing that time as IDA now on PC :)
+- ** Initial large work on disassembling and renaming functions, determining the purpose of functions and their parameters, tracking registers and so on, was done by me just in school notebooks and with colored pens. No such thing that time as IDA now on PC :)
 - [Then]: Revers'ed and improved `Hisoft Pascal` compiler for ZX-Spectrum (1st course of university times). Done on Spectrum itself. Using above disassembler/debugger/editor tools I reworked before. The resulting "Pascal compiler system" on the tape, allow me have then making large pascal program to do computation of schemes for radioelectronic, ported by me from Basic language from radio-magazine, and improved.  (~1997 y)
-- The above mini-CPM-compatible operating system for 8080 was reversed by me from binary codes, which I input from hex-codes by hands into computer (~4 kb).
-- All above work was done only with cassetes as information store. With the custom tape recorder, which I have modified to speedup and reliability of loading programs from cassete tapes.
+- The above mini-CPM-compatible operating system for 8080 was reversed by me from binary codes, which I entered from hex-codes by hands into computer (~4 kb).
+- ** All above work was done only with cassetes as information store. With the custom tape recorder, which I have modified to speedup and stability (reliability) of loading programs from cassete tapes.
 - reversing of fine-coded Autosimulator game (`HardDrivin`) for ZX Spectrum. (~1999 y)
 <hr>
 
