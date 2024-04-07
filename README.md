@@ -105,7 +105,7 @@ Later and now:
 
 ### Internet:
 - Reversing of proprietary `MS Exchange ESE/EDB` engine and database data formats, to work with email-databases (commercial work, 2004-2006).
-- Reversed proprietary binary database format of `FlashGet 1.9` downloader (was abandoned), fixed internal hard-to-find bugs. Created database repair utility. Drastically improved performance of large database loading on startup (**_from 5-10 min to 2 sec_**); Also added possibility to work with huge databases without crash at some time and data corruption. (And this was without source code) (2008-2024).
+- Reversed proprietary binary database format of `FlashGet 1.9` downloader (was abandoned by authors), fixed internal hard-to-find bugs. Created database repair utility. Drastically improved performance of large database loading on startup (**_from 5-10 min to 2 sec_**); Also added possibility to work with huge databases without crash at some time and data corruption. (And this was without source code) (2008-2024).
 - R/E, fixing, extending `Proxomitron` proxy-server (no src). Also created many complicated filters for it.
 - Fixed/reversed `HandyCache` proxy-server (no src).
 - Reversed parts of `MS IE8` browser for XP, and created module to fix issues with performance inside MSHTML.dll component. The problem was inside font caching algorithms. I have fixed and improved it. Also CHM viewer improved/optimized.
