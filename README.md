@@ -108,7 +108,7 @@ Later and now:
 - Reversed proprietary binary database format of `FlashGet 1.9` downloader (was abandoned by authors), fixed internal hard-to-find bugs. Created database repair utility. Drastically improved performance of large database loading on startup (**_from 5-10 min to 2 sec_**); Also added possibility to work with huge databases without crash at some time and data corruption. (And this was without source code) (2008-2024).
 - R/E, fixing, extending `Proxomitron` proxy-server (no src). Also created many complicated filters for it.
 - Fixed/reversed `HandyCache` proxy-server (no src).
-- Reversed parts of `MS IE8` browser for XP, and created module to fix issues with performance inside `MSHTML.dll` component. The problem was inside font caching algorithms. I have fixed and improved it. And now its flying. Also CHM viewer improved/optimized.
+- Reversed parts of `MS IE8` browser for XP, and created module to fix issues with performance inside `MSHTML.dll` component. The problem was inside font caching algorithms. I have fixed and improved it. And now its flying inside others `MSHTML`-based browsers. Also CHM viewer improved/optimized.
 - Have own knowlege system, based on reversengineering of abandoned `WebResearch` software.
 - Reversing/Improving `MyIE`-based browser (w/MFC src)
 - improving `Opera` browser (w/leaked src)
