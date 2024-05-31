@@ -39,7 +39,7 @@ Later and now:
 - Extending `IDA/Hexrays` (including long-time reversing), writing additional tools, Created plugins. (some done, some in progress)
 
 ### Windows internals:
-- I'm prefer Windows XP, because of its leaked src code. And dont moving totally to Windows7. (While using in parallel). If I found some bugs, I'm rely only to myself. As with owned legacy (but nice) car from 2000x.
+- I'm prefer Windows XP, because of its leaked src code. And dont moving totally to Windows7. (While using in parallel). If I found some bugs, I'm rely only to myself. As with owned legacy (but nice) German E-Class car from 2000x.
 - reworked and recompiled parts of leaked Windows NT code, +created and reworked tools for it.
 - I'm have created my own custom Win7+ API emulation libraries (including SRWLock APIs) to run some new programs on WinXP.
 - time-to-time working with/reversing of Win32-related system DLL's. 
