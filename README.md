@@ -134,4 +134,6 @@ Later and now:
 - the code, which I wrote even 25 years ago, I dont need to rewrite, because it was good writen and with a good style.
 <hr>
 
+IDK WHERE TO ASK BUT.......
+WHAT HAPPENED TO WIN32SS (IT DELETED GITHUB ACCOUNT) AND SUPERMIUM????????
 
