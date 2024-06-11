@@ -81,7 +81,7 @@ Later and now:
 - Love `SpaceSynth`-style music and try to research and make it.
 - fixed software, working with new MIDI-keyboards to support legacy keyboard.
 - `ASIO` for WinXP.
-- Research/Reversing of `Roland GS`, and `Yamaha XG` software synthesizers. (`SYXG50` and `YMF744/724`). bought ~15 pieces for collection.
+- Research/Reversing of `Roland GS`, and `Yamaha XG` software synthesizers. (`SYXG50`, and `YMF744/724` as PCI-cards). bought ~15 pieces for collection.
 - research/reversing/fixing/ of different DAW for composers.
 - MIDI devices repair and reversing.
 
