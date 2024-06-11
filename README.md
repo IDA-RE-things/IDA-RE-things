@@ -123,7 +123,7 @@ Later and now:
 
 ### My preferences:
 - I'm prefer VisualStudio 2008 for develop, when its possible.
-- I'm prefer IDA 6.8 for reversing with it. (For several reasons).
+- I'm prefer IDA 6.8 for reversing with it. (For several reasons. And main of them - it is latest 32-bit).
 - I'm prefer simple possible code, which can be compiled with many other compilers. Dont like new C++ standards. While its intended to simplicity of code writings. (The `auto` keyword, lambda's, and so on). But such code can not be compiled with old compilers. And I'm tired to rewrite it, when this occurs in projects code, wich I want to compile with VS2008 for ex.
 - dont like using of STL code, without real necessity.
 - dont like `cout << hex() << something;`; but like `printf("%08x", something);`. Because its more compact, flexible, and understandable. Especially for reversing.
