@@ -5,7 +5,7 @@ My achievements, some facts, interests, and work in progress (not commercial, ju
 <hr>
 
 Distant past. From what all was started. Post-school years (pre 2000, pre x86-PC) Just for history:
-- [No Computer at all]: I was radioamateur in school years. I have read books and magazines about programming, later have bought programmed micro-calculator `MK52`, and modified it to speedup.
+- [No Computer at all]: I was radioamateur in school years. I have read books and magazines about programming, later have bought programmed micro-calculator `MK-52`, and modified it to speedup.
  Have reversed (published in magazines) programs for it; from hex-like codes. 
  Also was intrested in microprocessor 8080 (how it can work, if imagine it on separate logic IC's). microprocessor which I seen only in magazines. 
  Have tried to write small asm programs just on paper, investigating algorithms and writing diagrams.
