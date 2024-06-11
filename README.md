@@ -15,7 +15,7 @@ Distant past. From what all was started. Post-school years (pre 2000, pre x86-PC
 - ** Initial large work on disassembling and renaming functions, determining the purpose of functions and their parameters, tracking registers and so on, was done by me just in school notebooks and with colored pens. No such thing that time as IDA now on PC :)
 - [Then]: Revers'ed and improved `Hisoft Pascal` compiler for ZX-Spectrum (1st course of university times). Done on Spectrum itself. Using above disassembler/debugger/editor tools I reworked before. The resulting "Pascal compiler system" on the tape, allow me to have then making of large pascal program to do computation of schemes for radioelectronic, (that pascal program was ported by me from Basic language from radio-magazine, and improved).  (~1997 y)
 - The above mini-CPM-compatible operating system for 8080 was reversed by me from binary codes, which I entered from hex-codes by hands into computer (~4 kb).
-- ** All above work was done only with cassetes as information store. With the custom tape recorder, which I have modified to speedup and stability (reliability) of loading programs from cassete tapes.
+- ** All above work was done only with cassetes as information store. With the custom tape recorder, which I have modified to speedup and to stability (reliability) of loading programs from cassete tapes.
 - reversing of fine-coded Autosimulator game (`HardDrivin`) for ZX Spectrum. (~1999 y)
 <hr>
 
