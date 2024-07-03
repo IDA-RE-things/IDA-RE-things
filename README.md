@@ -45,7 +45,7 @@ Later and now:
 - time-to-time working with/reversing of Win32-related system DLL's. 
 
 ### Other OS's:
-- Interested in `KolibriOS`, written mostly in asm code. Interested in translate most parts to C source. To improve, extending, support and debugging of it. Have created IDA plugin to improve this. And its work in progress.
+- Interested in `KolibriOS`, written mostly in asm code. Want to translate most parts to C source. To improve, extending, support and debugging of it. Have created IDA plugin to improve this. And its work in progress.
 - some work for KolibriOS emulator for Windows, translating it to C and rework. (originally written in Delphi by other people). 
 
 ### Graphics Cards:
