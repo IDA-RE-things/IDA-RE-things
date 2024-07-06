@@ -4,7 +4,7 @@ Time to say about me? Ok.
 
 I'm now 48 y.o. And I'm one of those people who are called old-school hackers (in the correct sense of the word).
 
-My achievements, some facts, interests, and what I'm doing (work in progress. not commercial, just for me), **_related to software_**. which I have divided to categories:
+My achievements, some facts, interests, and what I have done/doing (work in progress. not commercial, just for me), **_related to software_**. which I have divided to categories:
 <hr>
 
 Distant past. From what all was started. Post-school years (pre 2000, pre x86-PC) Just for history:
