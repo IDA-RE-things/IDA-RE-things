@@ -115,8 +115,8 @@ Later and now:
 - Have own knowlege system, based on reversengineering of abandoned `WebResearch` software.
 - Reversing/Improving `MyIE`-based browser (w/MFC src)
 - improving `Opera` browser (w/leaked src)
-- Fixing `Chrome` browser to improve speedup (in the past)
-  Returning to Chrome-based browsers theme in 2024 and created my project: https://github.com/IDA-RE-things/Chrome-xp-api-adapter/releases
+- Fixing `Chrome` browser to improve speedup (in the past) <br>
+  Returning to Chrome-based browsers stuff in 2024 and created my project: https://github.com/IDA-RE-things/Chrome-xp-api-adapter/releases
 
 ### Other:
 - `Far manager` and plugins rework.
