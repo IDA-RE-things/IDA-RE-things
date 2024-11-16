@@ -2,7 +2,7 @@ Time to say about me? Ok.
 
 ### Hi there 👋
 
-I'm now 48 y.o. And I'm one of those people who are called old-school hackers (in the correct sense of the word).
+I'm now 48 y.o. And I'm one of those people who are called old-school hackers (in the correct sense of the word). And I can say now Software Revers-Engineer/Archaeologyst.
 
 My achievements, some facts, interests, and what I have done/doing over the years (work in progress. not commercial, just for me), **_related to software_**. which I have divided to categories:
 <hr>
