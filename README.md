@@ -2,7 +2,7 @@ Time to say about me? Ok.
 
 ### Hi there 👋
 
-I'm now 48 y.o. And I'm one of those people who are called old-school hardware/software hackers (in the correct sense of the word). Mosot of my activities is Software Revers-Engineering/Archaeology.
+I'm now 48 y.o. And I'm one of those people who are called old-school hardware/software hackers (in the correct sense of the word). Most of my activities is Software Revers-Engineering/Archaeology.
 
 Yes, I love the source codes. The availablility of source code for me for the soft, which I have researched and found its cool. And sometimes I spend my years for that..
 
