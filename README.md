@@ -140,4 +140,7 @@ Later and now:
 - the code, which I wrote even 25 years ago, I dont need to rewrite, because it was good writen and with a good style.
 <hr>
 
+### Note
+Most repositories here are archival forks (e.g., from Google Code) or experiments with third-party tools.
+My original public projects are pinned above. Private work (IDA plugins, legacy tools, etc.) isn’t published.
 
