@@ -94,7 +94,7 @@ Later and now:
 - Extending/Research of many Autosimulator-related games. w/o source code. (for ex `Driver SF`, `Grid Autosport`, `CrashTime` -series, and many others)
 - Develop/revesing of own autosim from partial source code. (`Racer`-based)
 - Reversing of `CryEngine3` -based games, and `CineBox` workshop/editors, to extend functionality
-- Interesting in learing of `GTA3/SA` reversed game sources.
+- Interesting in learing of `GTA3/SA` reversed game sources. Also in GTA5 sources.
 - Also interested in other reversed/leaked game code sources.
 
 ### Automotive:
