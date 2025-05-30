@@ -83,10 +83,10 @@ Later and now:
 - Motherboard repair: Bought POST-cards, have revers'ed firmware for one of it. Researched, have found and fixed the cause of computer off on motherboard.
 
 ### Emulation:
-- interested in `Virtual PC` and other emulation/virtualization software.
-  Revers'ed some parts of Virtual PC for ex. Added some functionality to it, nedded for me: то work with custom IDE disks etc (2024-2025 y).
+- interested in `Virtual PC` and other emulation/virtualization software.:
+  - Revers'ed some parts of `Virtual PC` for ex. Added some functionality to it, nedded for me: то work with custom IDE disks etc (2024-2025 y).
 - Z80-based computers emulation (`blueMSX`, `UnrealSpeccy`, etc),
-- `XBox` emulation,
+- `XBox classic` emulation,
 - reversing/improving of software-emulated debuggers for microcontrollers
 
 ### MIDI/VSTi/DAW/Music:
