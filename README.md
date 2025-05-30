@@ -48,6 +48,12 @@ Later and now:
 - reworked and recompiled parts of leaked Windows NT code, +created and reworked tools for it.
 - I'm have created my own custom Win7+ API emulation libraries (including SRWLock APIs) to run some new programs on WinXP.
 - time-to-time working with/reversing of Win32-related system DLL's. 
+- WinXP: drivers: developed support for disks larger then 2Tb. (2025 y)
+   WinXP supports LBA 48 only up to 32bit LBA.
+   Existing solutions, while supports GPT disks, but do data corruption if LBA overflows 32 bit, or detects disk size, as 32bit remainder from real size. for ex: for 3Bt disk it will show only ~700 Gb disk
+       
+   With my adaptation of code inside disk.sys and atapi.sys, I can now use 3Tb disk on WinXP w/o data correuption and with correct size.
+
 
 ### Other OS's:
 - Interested in `KolibriOS`, written mostly in asm code. Want to translate most parts to C source. To improve, extending, support and debugging of it. Have created IDA plugin to improve this. And its work in progress.
@@ -77,7 +83,8 @@ Later and now:
 - Motherboard repair: Bought POST-cards, have revers'ed firmware for one of it. Researched, have found and fixed the cause of computer off on motherboard.
 
 ### Emulation:
-- interested in `Virtual PC` and other emulation/virtualization software. Revers'ed some parts.
+- interested in `Virtual PC` and other emulation/virtualization software.
+  Revers'ed some parts of Virtual PC for ex. Added some functionality to it, nedded for me: то work with custom IDE disks etc (2024-2025 y).
 - Z80-based computers emulation (`blueMSX`, `UnrealSpeccy`, etc),
 - `XBox` emulation,
 - reversing/improving of software-emulated debuggers for microcontrollers
@@ -121,7 +128,11 @@ Later and now:
   Returned to Chrome-based browsers stuff in 2024 and created my project: https://github.com/IDA-RE-things/Chrome-xp-api-adapter/releases
 
 ### Other:
-- `Far manager` and plugins rework.
+- `Far manager` and plugins rework.:
+  - reworked FileCopyEx plugin to improve Created/Modified/Accessed Times transfer for directories and files, etc.
+  - developed Copy/Move of NTFS sparse files feature for standard File Copy Dialog (2024 y). Now I'm use it.  
+  - other FAR plugins rework and improvements.
+
 - R/E extending/bugfixing in binary code of Windows desktop Applications.
 
 - and other (not in my memory now) ....
