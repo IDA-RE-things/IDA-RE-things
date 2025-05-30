@@ -47,12 +47,15 @@ Later and now:
 - I'm prefer Windows XP, because of its leaked src code. And dont moving totally to Windows7. (While using in parallel). If I found some bugs, I'm rely only to myself. As with owned legacy (but nice) German E-Class car from 2000x.
 - reworked and recompiled parts of leaked Windows NT code, +created and reworked tools for it.
 - I'm have created my own custom Win7+ API emulation libraries (including SRWLock APIs) to run some new programs on WinXP.
-- time-to-time working with/reversing of Win32-related system DLL's. 
+- time-to-time (in practic constantly) working with/reversing of Win32-related system DLL's. 
+- researching Kernel to fix some problems etc.
+- use WinDbg of course.
+- reversed and reworked MS Kernrate (kernel profiler tool).
 - WinXP: drivers: developed support for disks larger then 2Tb. (2025 y)
    WinXP supports LBA 48 only up to 32bit LBA.
    Existing solutions, while supports GPT disks, but do data corruption if LBA overflows 32 bit, or detects disk size, as 32bit remainder from real size. for ex: for 3Bt disk it will show only ~700 Gb disk
        
-   With my adaptation of code inside disk.sys and atapi.sys, I can now use 3Tb disk on WinXP w/o data correuption and with correct size.
+   With my adaptation of code inside disk.sys and atapi.sys, I can finally use **3Tb disk on WinXP w/o data corruption and with correct size** (in Victoria for ex).
 
 
 ### Other OS's:
